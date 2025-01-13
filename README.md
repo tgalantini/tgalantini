@@ -3,7 +3,7 @@
 ### 🚀 Engineer | Blockchain Developer | Solidity
 
 Welcome to my GitHub! I'm Tommaso Galantini, a passionate software engineer and blockchain developer. I thrive on building cutting-edge solutions in the decentralized world and enjoy crafting robust, efficient, and secure smart contracts.
-- **Updated CV** [TOMMASO_GALANTINI_CV](https://pdfupload.io/docs/74d27638)
+- **Updated CV** [TOMMASO_GALANTINI_CV](https://pdfupload.io/docs/ee03eb52)
 
 ---
 
