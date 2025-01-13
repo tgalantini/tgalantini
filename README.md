@@ -27,6 +27,7 @@ Welcome to my GitHub! I'm Tommaso Galantini, a passionate software engineer and 
 
 ### 🌐 Let’s Connect
 
+-**Website**: [tgalantini.xyz](https://tgalantini.xyz)
 - **LinkedIn**: [linkedin.com/in/tommasogalantini](https://www.linkedin.com/in/tommaso-galantini-65453b20a/)
 - **Twitter**: [@tga_eth](https://x.com/tga_eth)
 - **Email**: tommaso.galantini00@gmail.com
