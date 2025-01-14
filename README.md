@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm Tommaso Galantini, a passionate software engineer and 
 ### 💻 Skills
 
 - **Stack**: Solidity, JavaScript, Typescript, Node.js, Mongodb
-- **Blockchain Tools**: Foundry, Slither, Echidna, Medusa
+- **Blockchain Tools**: Foundry, Slither, Echidna, Medusa, Remix
 - **Web Development**: Web3 integrations for Blockchain applications
 
 ---
